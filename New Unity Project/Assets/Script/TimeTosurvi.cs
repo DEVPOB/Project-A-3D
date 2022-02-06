@@ -1,4 +1,3 @@
-using System.Security.Cryptography.X509Certificates;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -7,7 +6,6 @@ using TMPro;
 
 public class TimeTosurvi : MonoBehaviour
 {
-    // Start is called before the first frame update
     public TextMeshPro TimeText;
     public double timetosurvi;
     public double timetosurvibutround;
